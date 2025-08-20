@@ -1,21 +1,57 @@
-# 💫 About Me:
-🔭 I’m currently working on React<br>👯 I’m looking to collaborate on frontend <br>🌱 I’m currently learning MERN<br>
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Ayush Gupta</h1>
+<h3 align="center">Full-Stack Developer | Web & App Architect | Creative Problem Solver</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_kaushal_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Ayush Gupt](https://www.linkedin.com/in/ayush-gupta-32721b275/)a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayush  ) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaushalayu&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kaushalayu&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalayu&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Crafting+Web+and+Mobile+Experiences;MERN+Stack+Developer+%7C+Flutter+Explorer;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kaushalayu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+🎓 I’m a passionate developer focused on delivering clean, user-centric digital solutions.  
+🚀 Currently building dynamic full-stack applications with real-world impact.  
+💡 Constantly exploring new tech and pushing the limits of creativity.
+
+- 🔭 I’m working on:  
+  `Quiz App`, `Online chat and vedio call`, `Food Order System`, `Hospital Management System`, `Blog Platform`, `Pathology Software`
+
+- 💼 Tech Enthusiast | Freelance Developer | Problem Solver    
+- 🌐 Web Development: MERN Stack + Tailwind + Responsive Design  
+- 🎯 Goal: Build scalable platforms and impactful software for real-life needs.
+
+---
+
+## 🛠️ Tech Stack & Tools
+### 💻 Languages & Frameworks
+`JavaScript` · `Node.js` · `React.js` · `PHP` ·  `Java` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap`
+
+### 🧠 Backend & Databases
+`Express.js` · `MongoDB` · `MySQL` · `.NET MVC` · `REST APIs` · `Postman`
+
+### ⚙️ Tools & Platforms
+`Git` · `GitHub` · `VS Code` · `Photoshop` ·  `Netlify` 
+
+---
+
+## 🔗 Let's Connect
+- 📬 **Email**: kaushalayush95@gmail.com 
+- 🌐 **Portfolio**:  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/kaushalvicky/](https://www.linkedin.com/in/kaushalvicky/)  
+- 📦 **Projects**: Check out my pinned repositories for cool stuff!
+
+---
+
+## ⚡ Fun Fact
+> "A good developer is not the one who knows everything, but the one who knows how to find everything."
+
+---
+
+## 🙌 Support & Collaboration
+Looking to collaborate on innovative web or app-based projects? Let's build something great together!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
