@@ -36,7 +36,7 @@
 
 ## 🔗 Let's Connect
 - 📬 **Email**: kaushalayush95@gmail.com 
-- 🌐 **Portfolio**:  
+- 🌐 **Portfolio**:(https://portfolio7080.netlify.app/)  
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/kaushalvicky/](https://www.linkedin.com/in/kaushalvicky/)  
 - 📦 **Projects**: Check out my pinned repositories for cool stuff!
 
