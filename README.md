@@ -14,7 +14,7 @@
 💡 Constantly exploring new tech and pushing the limits of creativity.
 
 - 🔭 I’m working on:  
-  `Quiz App`, `Online chat and vedio call`, `Food Order System`, `Hospital Management System`, `Blog Platform`, `Pathology Software`
+  `Quiz App`, `Online chat and vedio call`, `Food Order System`, `Hospital Management System`, `Blog Platform`,`Bussiness Utility Website`
 
 - 💼 Tech Enthusiast | Freelance Developer | Problem Solver    
 - 🌐 Web Development: MERN Stack + Tailwind + Responsive Design  
