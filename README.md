@@ -100,16 +100,16 @@
   <img src="https://raw.githubusercontent.com/kaushalayu/kaushalayu/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> ⚠️ **Setup required:** This animated snake (eating your contribution graph) doesn't work automatically — you need to add a small GitHub Action to your profile repo:
-> 1. Go to your profile repo → **Settings → Secrets and variables → Actions**
-> 2. Create a file `.github/workflows/snake.yml` in your profile repo with the [Platane/snk action](https://github.com/Platane/snk) — it auto-generates the SVG above daily.
-> 3. Once it runs once, the image link above will start working with your real contribution data.
->
-> This is the closest thing to a "3D animation" GitHub natively supports — dark theme keeps it looking sleek and professional rather than gimmicky.
-
 ---
 
 ## 📌 Pinned Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **Axsem-website** | Web project built with modern stack | [🔗 View Repo](https://github.com/kaushalayu/Axsem-website) |
+| **nextani** | Web project built with modern stack | [🔗 View Repo](https://github.com/kaushalayu/nextani) |
+
+<sub>Note: These are shown as a simple table since the auto-generated pin cards depend on a shared third-party service that's occasionally slow to load. If you'd rather have visual cards, try the API cards below — they may load once the service isn't overloaded.</sub>
 
 <p align="center">
   <a href="https://github.com/kaushalayu/Axsem-website">
