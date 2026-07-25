@@ -22,8 +22,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushalvicky&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kaushalvicky?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=kaushalayu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/kaushalayu?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -78,26 +78,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaushalvicky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalvicky&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaushalayu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalayu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalvicky&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalayu&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushalvicky&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushalayu&theme=tokyo-night&hide_border=true" />
 </p>
 
-> ⚠️ Note: Replace `kaushalvicky` above with your exact GitHub username if it differs — these widgets pull live data from your GitHub account.
+> ⚠️ Note: Replace `kaushalayu` above with your exact GitHub username if it differs — these widgets pull live data from your GitHub account.
 
 ---
 
 ## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaushalvicky/kaushalvicky/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kaushalayu/kaushalayu/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 > ⚠️ **Setup required:** This animated snake (eating your contribution graph) doesn't work automatically — you need to add a small GitHub Action to your profile repo:
@@ -112,11 +112,13 @@
 ## 📌 Pinned Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushalvicky&repo=your-repo-name-1&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushalvicky&repo=your-repo-name-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/kaushalayu/Axsem-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushalayu&repo=Axsem-website&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/kaushalayu/nextani">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushalayu&repo=nextani&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
-
-> Replace `your-repo-name-1` / `your-repo-name-2` with your actual repo names to auto-generate project cards.
 
 ---
 
